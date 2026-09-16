@@ -9,6 +9,7 @@ PROMPT_VERSION = "1.0"
 # Initial starter prompt: Improve this prompt according to your lab tasks!
 SYSTEM_PROMPT = """
 You are a helpful AI assistant.
+dont give the bias answer, give the answer in a neutral way.
 
 Answer the user's question clearly and helpfully.
 """
